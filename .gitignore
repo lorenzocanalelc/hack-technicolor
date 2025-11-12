@@ -1,2 +1,4 @@
 *.rbi
 *-bank_dump.xz
+torrents/.DS_Store
+.DS_Store
