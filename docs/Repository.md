@@ -631,26 +631,12 @@ A basic ADSL only BCM6362 based gateway. Very useful as SIP ATA.
 | Type   | Version            | Timestamp  | Root Strategy | Mirror |
 |:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_047   | 2023-09-08 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_047_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_048   | 2023-09-22 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_048_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_049   | 2023-10-27 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_049_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_050   | 2023-12-13 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_050_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_051   | 2024-02-26 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_051_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_053   | 2024-05-15 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_053_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_055   | 2024-07-29 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_055_DGA4135.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_057   | 2025-03-05 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/vent-a/22.2.0378_FW_057_DGA4135.pkgtb.torrent?raw=true) |
 
 
@@ -815,26 +801,12 @@ A basic ADSL only BCM6362 based gateway. Very useful as SIP ATA.
 | Type   | Version            | Timestamp  | Root Strategy | Mirror |
 |:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_047   | 2023-09-08 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_047_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_048   | 2023-09-22 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_048_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_049   | 2023-10-27 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_049_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_050   | 2023-12-13 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_050_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_051   | 2024-02-26 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_051_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_053   | 2024-05-15 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_053_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | 2 😁   | 22.2.0378_FW_055   | 2024-07-29 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_055_FGA221D.pkgtb.torrent?raw=true) |
-| Type   | Version            | Timestamp  | Root Strategy | Mirror |
-|:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 22.2.0378_FW_056   | 2025-01-09 | -             | [Torrent](https://github.com/hack-technicolor/hack-technicolor/blob/master/torrents/gdnt-s/22.2.0378_FW_056_FGA221D.pkgtb.torrent?raw=true) |
 
 
