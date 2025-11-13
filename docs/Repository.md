@@ -852,7 +852,7 @@ A basic ADSL only BCM6362 based gateway. Very useful as SIP ATA.
 |:------:|:-------------------|:-----------|:--------------|:-------|
 | ??? 🤔 | 23.2.0622-4_FW_002 | 2025-06-13 | -             | [HTTPS](https://acs.dsl.vodafone.it:7002/fileserver/23.2.0622-4_FW_002_OWA834BFWB2.signed)* - [Torrent](https://github.com/kevdagoat/hack-technicolor/blob/master/torrents/gent-j/23.2.0622-4_FW_002_OWA834BFWB2.signed.torrent?raw=true) |
 
-
+> *\* requires access to ISP's network and download password*
 
 
 ## CobraXh / VCNT-8
